@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of Social Links](/images/Screenshot 2024-06-23 134224.png)
+![Screenshot of Social Links](assets/images/Screenshot 2024-06-23 134224.png)
 
 ### Links
 
