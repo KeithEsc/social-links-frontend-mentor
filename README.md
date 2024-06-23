@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Description of the screenshot](images/screenshot.png)
+![Description of the screenshot](assets/images/Screenshot 2024-06-23 134224.png)
 
 ### Links
 
