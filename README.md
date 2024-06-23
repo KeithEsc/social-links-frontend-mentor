@@ -12,11 +12,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/Screenshot 2024-06-23 134224.png)
+https://res.cloudinary.com/dxpngxhw9/image/upload/v1719168199/Screenshot_2024-06-23_134224_oor4mt.png
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://social-links-frontend-mentor-murex.vercel.app/
 
 ### Built with
 
