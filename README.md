@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 
-https://res.cloudinary.com/dxpngxhw9/image/upload/v1719168199/Screenshot_2024-06-23_134224_oor4mt.png
+![Description of the screenshot](images/screenshot.png)
 
 ### Links
 
